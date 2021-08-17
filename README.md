@@ -11,7 +11,7 @@ This repository is the starter code for the project: Students will fork and clon
 ## Gives an error when tweet length exceeded
 !["Screenshot of error message"](docs/Error message.png)
 ## display tweet when you enter new tweet
-!["Screenshot of tweet"](docs/Tweet.png)
+!["Screenshot of tweet"](https://github.com/Pooja-IT/tweeter/blob/master/docs/Tweet.png?raw=true)
 
 ## Getting Started
 
